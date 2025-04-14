@@ -8,4 +8,4 @@ This repo includes:
 - Example OCR output (JSON)
 - Public-facing information (core app logic is private)
 
-👨‍🍳 Built with: Bubble.io, Figma, Make, Python, OCR, and a lot of love.
+👨‍🍳 Built with: Lovable.dev, Figma, Make, Python, OCR, and chat GPT.
